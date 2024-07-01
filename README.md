@@ -1,6 +1,7 @@
 # 3DMorph_HPC_OPT
 3DMorph (Elisa York 2018) optimized for High Performance Computing
-ABOUT: This script adapts 3DMorph by Elisa York for automated 3D microglia morphology for high performance computing. Changes were made to make the script compatible with the high performance computing enviroment. Optimizations were made to the path finding algorithm, memory allocation, and file outputs. Sections with changes are marked with NK 2024.
+
+ABOUT: This script adapts 3DMorph by Elisa York for automated 3D microglia morphology for high performance computing. Changes were made to make the script compatible with a Slurm-based high performance computing enviroment. Optimizations were made to the path finding algorithm, memory allocation, and file outputs. Sections with changes are marked with NK 2024.
 
 
 Works used:
